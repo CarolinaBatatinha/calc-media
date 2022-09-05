@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+body {
+  font-family: 'Roboto',monospace;
+  min-height: 400px;
+  background-image:url(images/2.jpg);
+  background-color: #000000;
+  background-size: 100vh;
+  background-position: center ;
+  background-repeat: no-repeat;
+}
+
+.container {
+  text-align: center;
+  padding: 20px;
+  height:75vh;
+}
+
+h1 {
+  color:#ffffff;
+  margin: 0 0 5px;
+}
+
+p {
+  color:#ffffff;
+  margin-top: 5px;
+}
+
+.page-logo {
+  width: 200px;
+}
+
+.alura-logo {
+  width: 40px;
+  position: absolute;
+  top: 10px;
+  right: 10px;
+ }
+
+button {
+  font-family: 'Roboto';
+  text-align: center;
+  padding: 10px;
+  margin: auto;
+  margin-bottom: 15px;
+  width: 230px;
+  display: block;
+}
+ 
+footer {
+  font-family: 'Roboto';
+  font-size: 10px;
+  color: #ffffff;
+  text-align: center;
+  margin-bottom: 15px;
+}
+ 
